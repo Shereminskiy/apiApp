@@ -1,0 +1,12 @@
+/.idea
+/.cache
+/.config
+/.local
+/.vagrant
+.bash_history
+
+/bower_components
+/node_modules
+/dist.dev
+
+/error.log
